@@ -1,4 +1,3 @@
-<img width="1269" height="1121" alt="2026 07 03 15-17-32" src="https://github.com/user-attachments/assets/dbd52a97-e1a2-42ce-82aa-07d9fef03abc" />
 # 🏃 Run Smart
 
 A landing page for a heart rate monitor shop. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no build tools, just clean hand-written code.
@@ -9,7 +8,7 @@ A landing page for a heart rate monitor shop. Built with vanilla HTML, CSS, and 
 
 ## Screenshots
 
-> _Add a screenshot of the landing page here — drag an image directly into the GitHub editor_
+<img width="1269" height="1121" alt="2026 07 03 15-17-32" src="https://github.com/user-attachments/assets/dbd52a97-e1a2-42ce-82aa-07d9fef03abc" />
 
 ---
 
